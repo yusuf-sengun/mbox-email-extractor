@@ -1,3 +1,4 @@
+<h1>Mbox Email Extractor</h1>
 You can use this bash script to export e-mails addresses e-mail account from Mac mail app. Also you can use CSV file which is produced by script end of process
 
 
